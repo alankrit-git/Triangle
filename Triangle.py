@@ -1,4 +1,5 @@
-rows = int(input("Enter number of rows: "))
+
+rows = int(input("Enter number of rows in the comment box: "))
 
 for i in range(rows):
     for j in range(i+1):
